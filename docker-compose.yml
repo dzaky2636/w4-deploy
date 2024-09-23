@@ -6,4 +6,4 @@ services:
         STUDENT_NAME: "Dzaky Fatur Rahman"
         STUDENT_NIM: "00000089614"
     ports:
-      # TODO
+      - "80:3000"
